@@ -1,0 +1,18 @@
+{
+  "name": "eeclass video downloader",
+  "version": "2021.6",
+  "author": "Alan Li",
+  "description": "Append download link to any course video",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://ncueeclass.ncu.edu.tw/media/doc/*"
+      ],
+      "js": [
+        "js/content_script.js"
+      ]
+    }
+  ],
+  "manifest_version": 2
+}
