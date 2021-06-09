@@ -4,7 +4,7 @@ Lazy eeclass course video downloader.
 
 Now (2021/06/10) status : Still Working!
 
-### Intro
+## Intro
 
 朋友的老師放在eeclass上的課程影片一陣子就會撤掉，但他想保存下來之後再看
 
@@ -12,7 +12,7 @@ Now (2021/06/10) status : Still Working!
 
 這個插件沒有任何技術含量，單純分享給像我一樣不想開devtool又不想寫code的懶人，為您節省幾秒鐘的時間~
 
-### Demo
+## Demo
 
 - Before
 ![Before](demo/Before.png)
@@ -22,7 +22,7 @@ Now (2021/06/10) status : Still Working!
 ![After](demo/After1.png)
 ![After](demo/After2.png)
 
-### Usage For Chrome
+## Usage For Chrome
 
 1. Clone(Download) eeclass-video-dl-main.zip from github then unzip 
 
@@ -42,10 +42,10 @@ or use
 
 
 
-### Warning
+## Warning
 
 僅供教育學習使用，嚴禁商業用途，同時也請尊重著作權與肖像權，違者後果自負!
 
-### Outro
+## Outro
 
 Feel free to issue!
